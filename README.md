@@ -16,6 +16,10 @@ Finally, the GPT supports programming and rigorous testing phases, guiding users
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[SpaceX](https://github.com/sourceduty/SpaceX)
+<br>
+[Satellite Lab](https://github.com/sourceduty/Satellite_Lab)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -10,7 +10,27 @@ Beyond design, Rocket Lab focuses on engineering system integration, emphasizing
 Finally, the GPT supports programming and rigorous testing phases, guiding users through software development for flight control, data collection, and error correction. It offers advice on using simulation tools like MATLAB and Python for early modeling, as well as C++ for real-time performance in flight systems. Testing recommendations include static engine firings, wind tunnel experiments, and vibration tests to validate the rocket’s resilience under mission conditions. This iterative development approach ensures continuous improvement based on feedback and test outcomes. Overall, Rocket Lab is a comprehensive tool for anyone involved in aerospace design, from students to professionals seeking advanced technical support.
 
 #
+### Specifications
+
 ![Rocket](https://github.com/user-attachments/assets/e4b47cb0-e8ab-478e-8e70-e5d35d8d367c)
+
+
+| Category             | Option                             | Description                                                                 |
+|----------------------|------------------------------------|-----------------------------------------------------------------------------|
+| Payload Weight       | Micro (<500 kg)                   | Small payloads such as CubeSats or experiments.                             |
+|                      | Small (500–2000 kg)               | Small satellite constellations or medium-sized payloads.                    |
+|                      | Medium (2000–20,000 kg)           | Large satellites or space station components.                               |
+|                      | Heavy (>20,000 kg)                | Manned missions, large interplanetary payloads.                             |
+| Destination          | LEO (Low Earth Orbit)             | 180–2,000 km altitude for most satellites and experiments.                  |
+|                      | GEO (Geostationary Orbit)         | ~36,000 km altitude for communications satellites.                          |
+|                      | Lunar                             | Moon missions, including orbiters and landers.                              |
+|                      | Interplanetary (e.g., Mars)       | Deep space missions to other planets or celestial bodies.                   |
+| Mission Duration     | Short-term (days to weeks)        | Experiments, satellite deployments, short crewed missions.                  |
+|                      | Long-term (months to years)       | Space station modules, interplanetary exploration, or deep space probes.    |
+| Special Needs        | Manned                            | Requires life support systems and safety redundancies.                      |
+|                      | Unmanned                          | For satellites, probes, or experiments.                                     |
+|                      | Scientific Instruments            | Special payloads requiring controlled environments (e.g., telescopes).      |
+|                      | Satellite Deployment              | Mission designed to deploy one or multiple satellites into specific orbits. |
 
 #
 ### Related Links
